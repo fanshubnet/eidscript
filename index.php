@@ -9,8 +9,8 @@
 <title>》⍟☆⍣ Eid Mubarak ⍣☆⍟《</title>
     <meta name="google" value="notranslate">
     <meta property="og:type" content="Make your own wonderful Wishing greeting card" />
-    <meta property="og:title" content="Wishing You Happy EID MUbarak 2018" />
-    <meta property="og:url" content="https://festivalscriptjk.blogspot.com/>
+    <meta property="og:title" content="Wishing You Happy EID MUbarak 2020" />
+    <meta property="og:url" content="https://fansspot.net/>
     <meta property="og:description" content="CLICK HERE" />
     <meta property="og:site_name" content="Create Awesome wisheing Card" />
     <link rel="stylesheet" type="text/css" href="main.css">
@@ -571,7 +571,7 @@ LINK ADS
 <!---This Theme Edited and Designed By Wishing Script Hub----->
 <br></br>
 <center>
- <a class="footerbtn" href="whatsapp://send?text= *Touch this blue line enter your name and see magic* 👉👉👉 https://festivalscriptjk.blogspot.com/">
+ <a class="footerbtn" href="whatsapp://send?text= *Touch this blue line enter your name and see magic* 👉👉👉 https://fansspot.net/">
  <img width="22px" height="22px" src="https://goo.gl/To7pFU"/>  
  <b style="font-size: 26px;">Share on Whatsapp</b>  
  <img width="25px" height="25px" src="https://goo.gl/To7pFU"/></a>
